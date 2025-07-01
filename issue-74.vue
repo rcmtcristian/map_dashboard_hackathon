@@ -12,14 +12,14 @@
           :class="$vuetify.display.mdAndUp ? 'text-right' : 'text-center'"
         >
           <p class="text-grey-darken-4 mb-0">
-            Contact us at 
+            This is a  
             <a 
               href="https://www.programearth.org" 
-              target="_blank"
+              target="_blank" 
               class="text-grey-darken-4 text-decoration-none"
             >
               www.programearth.org
-            </a>
+            </a> project. Updated 2025.
           </p>
         </v-col>
       </v-row>
